@@ -4,7 +4,7 @@ All these python files are test driven development projects. Each has a differen
 
 calendars.py - using TDD to determine if years in different calendar types, Gregorian and Milkanovik, are leap years as well as well as other details.
 
-playfair.py -
+playfair.py - uses TDD to take an input string and creates a playfair table to encrypt the message.
 
 rational.py -
 
