@@ -8,4 +8,4 @@ playfair.py - uses TDD to take an input string and creates a playfair table to e
 
 rational.py - uses TDD to implement rational numbers accurately and precisely.
 
-reductions.py - uses TDD to check if words are in a word list.
+reductions.py - uses TDD to check and return the words from a file in the form of a list.
