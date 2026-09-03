@@ -6,6 +6,6 @@ calendars.py - using TDD to determine if years in different calendar types, Greg
 
 playfair.py - uses TDD to take an input string and creates a playfair table to encrypt the message.
 
-rational.py -
+rational.py - uses TDD to implement rational numbers accurately and precisely.
 
-reductions.py -
+reductions.py - uses TDD to check if words are in a word list.
